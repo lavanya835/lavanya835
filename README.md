@@ -2,18 +2,14 @@
 <!--                     HEADER / BANNER IMAGE                    -->
 <!-- ============================================================ -->
 
-<table align="center" border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 80%;">
-  <tr>
-    <td align="center">
-      <img 
-        src="https://github.com/user-attachments/assets/d60cb7d9-c445-4617-ae82-6b36904897bf" 
-        alt="Coding Banner" 
-        width="100%" 
-        style="display: block; margin: 0 auto;" 
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://avatars.githubusercontent.com/u/187732704?v=4" 
+    alt="Lavanya" 
+    width="180" 
+    style="border-radius: 50%; display: block; margin: 0 auto;" 
+  />
+</p>
 
 <!-- ============================================================ -->
 <!--                      PROFILE VIEW COUNTER                    -->
