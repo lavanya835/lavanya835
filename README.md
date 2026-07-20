@@ -164,6 +164,16 @@ to build practical, well-documented projects with a focus on learning and steady
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lavanya835&theme=react-dark&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=00FFFF&area=true&hide_border=false" alt="Contribution Activity Graph"/>
 </p>
 
+<!-- ============================================================ -->
+<!--                    SNAKE CONTRIBUTION GRAPH                  -->
+<!-- ============================================================ -->
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lavanya835/lavanya835/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+</p>
+
 <!-- Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Divider" width="100%"/>
