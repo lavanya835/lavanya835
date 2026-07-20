@@ -165,13 +165,13 @@ to build practical, well-documented projects with a focus on learning and steady
 </p>
 
 <!-- ============================================================ -->
-<!--                    SNAKE CONTRIBUTION GRAPH                  -->
+<!--              SPACE SHOOTER CONTRIBUTION GRAPH                -->
 <!-- ============================================================ -->
 
-### 🐍 Contribution Snake
+### 🚀 Contribution Space Shooter
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lavanya835/lavanya835/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+  <img src="game.gif" alt="Space Shooter blasting contribution graph" width="100%"/>
 </p>
 
 <!-- Divider -->
