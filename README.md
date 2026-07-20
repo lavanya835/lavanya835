@@ -4,10 +4,10 @@
 
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/u/187732704?v=4" 
-    alt="Lavanya" 
-    width="180" 
-    style="border-radius: 50%; display: block; margin: 0 auto;" 
+    src="assets/banner.svg" 
+    alt="LAVANYA" 
+    width="100%" 
+    style="display: block; margin: 0 auto;" 
   />
 </p>
 
